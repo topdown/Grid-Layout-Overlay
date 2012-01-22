@@ -2,7 +2,7 @@ HTML Layout Grid Overlay
 ==================
 
 This is an example package with a overlay image 
-![overlay](https://github.com/topdown/Grid-Layout-Overlay/blob/master/src/img/100grid.png "Overlay")
+![overlay](https://github.com/topdown/Grid-Layout-Overlay/blob/master/src/img/100grid.png?raw=true "Overlay")
 
 It can be found in /src/img/100grid.png
 
@@ -37,6 +37,6 @@ Eg.
 
 
 This is a screen shot of the example files do their job.
-![Example](https://github.com/topdown/Grid-Layout-Overlay/blob/master/grid-screenshot.png "Example")
+![Example](https://github.com/topdown/Grid-Layout-Overlay/blob/master/grid-screenshot.png?raw=true "Example")
 
 [This Readme was created with PHP MD Editor](https://github.com/topdown/PHP-MD-Editor "PHP-MD-Editor")
