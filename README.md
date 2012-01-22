@@ -1,6 +1,8 @@
 HTML Layout Grid Overlay
 ==================
 
+I came up with this idea while trying to align form elements in a form that had different size inputs.
+
 This is an example package with a overlay image 
 
 ![overlay](https://github.com/topdown/Grid-Layout-Overlay/blob/master/src/img/100grid.png?raw=true "Overlay")
@@ -15,13 +17,20 @@ top:
 left:
 and for opacity
 opacity:
+
 In the src/css/style.css for the #grid selector.
+
 Eg.
+
 	top:        -12px; /* Adjust the Vertical position */
+
 	left:       -6px; /* Adjust the Horizontal position */
+
 	opacity:    .7; /* Adjust the opacity */
 
+
 **Add the HTML after the opening body tag.**
+
 &lt;div id="grid"&gt;&lt;/div&gt;
 
 This is a screen shot of the example files do their job.
