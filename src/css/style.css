@@ -31,7 +31,6 @@ body {
 	min-height: 800px;
 	margin:     0;
 	padding:    0;
-
 	top:        -12px; /* Adjust the Vertical position */
 	left:       -6px; /* Adjust the Horizontal position */
 	opacity:    .7; /* Adjust the opacity */
