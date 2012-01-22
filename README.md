@@ -37,7 +37,7 @@ Eg.
 
 	<div id="grid"></div>
 
-This is a screen shot of the example files do their job.
+This is a screen shot of the example files doing their job.
 ![Example](https://github.com/topdown/Grid-Layout-Overlay/blob/master/grid-screenshot.png?raw=true "Example")
 
 [This Readme was created with PHP MD Editor](https://github.com/topdown/PHP-MD-Editor "PHP-MD-Editor")
