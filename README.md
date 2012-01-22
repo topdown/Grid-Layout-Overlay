@@ -2,6 +2,7 @@ HTML Layout Grid Overlay
 ==================
 
 This is an example package with a overlay image 
+
 ![overlay](https://github.com/topdown/Grid-Layout-Overlay/blob/master/src/img/100grid.png?raw=true "Overlay")
 
 It can be found in /src/img/100grid.png
@@ -30,6 +31,7 @@ Eg.
 	left:       -6px; /* Adjust the Horizontal position */
 	opacity:    .7; /* Adjust the opacity */
 }
+
 **Add the HTML after the opening body tag.**
 	<div id="grid"></div>
 
