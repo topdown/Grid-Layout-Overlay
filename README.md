@@ -10,7 +10,9 @@ This is an example package with a overlay image
 It can be found in /src/img/100grid.png
 
 Solid Black = 100px * 100px
+
 Dashed Black = 50px * 50px
+
 Solid Red = 10px * 10px
 
 
