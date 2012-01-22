@@ -38,3 +38,5 @@ Eg.
 
 This is a screen shot of the example files do their job.
 ![Example](https://github.com/topdown/Grid-Layout-Overlay/blob/master/grid-screenshot.png "Example")
+
+[This Readme was created with PHP MD Editor](https://github.com/topdown/PHP-MD-Editor "PHP-MD-Editor")
