@@ -25,16 +25,18 @@ To adjust the position of the grid for perfect alignment, adjust
 In the src/css/style.css for the #grid selector.
 
 Eg.
-```css
+
 	top:        -12px; /* Adjust the Vertical position */
+
 	left:       -6px; /* Adjust the Horizontal position */
+
 	opacity:    .7; /* Adjust the opacity */
-```
+
 
 **Add the HTML after the opening body tag.**
-```html
+
 	<div id="grid"></div>
-```
+
 This is a screen shot of the example files doing their job.
 ![Example](https://github.com/topdown/Grid-Layout-Overlay/blob/master/grid-screenshot.png?raw=true "Example")
 
